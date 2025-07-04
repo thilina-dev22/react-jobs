@@ -36,7 +36,7 @@ A React-based job board application for browsing, adding, editing, and deleting 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-jobs.git
+   git clone https://github.com/IT22003850/react-jobs.git
    ```
 2. Navigate to the project directory:
    ```bash
